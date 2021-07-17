@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Ogenna.
+I identify as she/her.
+I have a B.Eng in Electrical and Electronics Engineering but no coding history.
+I am currently on the path to becoming a full-stack web dev with help from Dufuna CodeCamp, Stack Overflow, FreeCodeCamp, Youtube and TheOdinProject.
+Currently concentrating on HTML, CSS and Javascript, with knowldge of Git, Github, CLI.
+How to reach me: twitter.com/yadilinna, instagram.com/theogenna, ogennaogbogu@gmail.com.
+Fun fact: I'm also a baker.
